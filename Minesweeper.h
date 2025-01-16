@@ -1,11 +1,6 @@
 
 using namespace std;
 
-//20/ENG/139
-//21/ENG/053 
-//21/ENG/055
-
-//Class creation done by 21/ENG/055
 class MineSweeper {
 public:
     int size;

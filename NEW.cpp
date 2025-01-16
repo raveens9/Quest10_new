@@ -1,8 +1,3 @@
-/*Team Members
----------------------------------
-20/ENG/139 - Sangeeth Tennakoon
-21/ENG/053 - Raveen Shenuka
-21/ENG/055 - Samadhi Prathibha*/
 
 #include <iostream>
 #include <vector>
